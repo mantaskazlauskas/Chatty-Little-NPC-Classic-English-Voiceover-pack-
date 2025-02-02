@@ -1,0 +1,11 @@
+## Interface: 20504
+## Title: Chatty Little NPC: Vanilla
+## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
+## Author: Tuubby
+## Version: 2.0.2
+## Dependencies: ChattyLittleNPC
+
+embeds.xml
+
+ChattyLittleNpc_Vanilla.lua
+VoiceoversList.lua
