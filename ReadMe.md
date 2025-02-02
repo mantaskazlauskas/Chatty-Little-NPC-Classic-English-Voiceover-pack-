@@ -8,4 +8,4 @@ It contains QUEST voiceovers for Classic/Vanilla World of Warcraft.
 ---
 
 
-![https://www.paypal.com/donate/?hosted_button_id=CZGQYKYFRURMW](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=CZGQYKYFRURMW)
